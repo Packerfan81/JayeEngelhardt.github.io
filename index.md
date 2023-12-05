@@ -51,16 +51,17 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
+### [Rootkits]([Rootkits.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13571974/Rootkits.pdf))
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+- **Class:** CSCI 330 Computer Architecture
+- **Grade:** A
 
-- **Class:** 
-- **Grade:**
+
+### [Computer Forensics](/pdf/sample_presentation.pdf)
+
+- **Class:** CSCI 405 Principles of Cybersercurity
+- **Grade:** A
 
 ---
 
