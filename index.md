@@ -31,10 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Algorithms]([Algorithms.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13570230/Algorithms.pdf))
+### <a href= "pdf/Algorithms.pdf" target="_blank">Algorithms</a>
 
--   **Class:** CSCI 332 Applied Networking
--   **Grade:** A-
+-   **Class: CSCI 332 Applied Networking**
+-   **Grade: A-**
 
 ### [Security Engineering Ethical Concerns]([Security Engineering Ethical Concerns.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13569746/Security.Engineering.Ethical.Concerns.pdf))
 
