@@ -43,7 +43,7 @@ Ethics Papers
 -   **Class:** CSCI 432 Network Penetration and Ethical Hacking 
 -   **Grade:** A
 
-### [Have We Done Enough]([Have We Done Enough.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13569669/Have.We.Done.Enough.pdf))
+### [Have We Done Enough](pdf/Have We Done Enough.pdf)
 
 
 -   **Class:** CSCI 315 Data Structures 
