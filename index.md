@@ -37,7 +37,7 @@ Ethics Papers
 -   **Class:** CSCI 332 Applied Networking
 -   **Grade:** A-
 
-### [Security Engineering Ethical Concerns](([Security Engineering Ethical Concerns.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13567525/Security.Engineering.Ethical.Concerns.pdf))
+### [Security Engineering Ethical Concerns]([Security Engineering Ethical Concerns.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13567525/Security.Engineering.Ethical.Concerns.pdf))
 
 
 -   **Class:** CSCI 432 Network Penetration and Ethical Hacking 
