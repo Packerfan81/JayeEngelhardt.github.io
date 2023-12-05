@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Algorithms]((https://github.com/Packerfan81/Packerfan81.github.io/files/13567509/Algorithms.pdf))
+### [Algorithms]()
 
 
 -   **Class:** CSCI 332 Applied Networking
 -   **Grade:** A-
 
-### [Security Engineering Ethical Concerns]((https://github.com/Packerfan81/Packerfan81.github.io/files/13567525/Security.Engineering.Ethical.Concerns.pdf))
+### [Security Engineering Ethical Concerns]()
 
 
 -   **Class:** CSCI 432 Network Penetration and Ethical Hacking 
 -   **Grade:** A
 
-### [Have We Done Enough]((https://github.com/Packerfan81/Packerfan81.github.io/files/13567530/Have.We.Done.Enough.pdf))
+### [Have We Done Enough]()
 
 
 -   **Class:** CSCI 315 Data Structures 
