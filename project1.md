@@ -8,7 +8,7 @@ Project 1 Title
 -   **Grade: A** 
 -   **Language(s): Java** 
 -   **Source Code Repository:** (https://github.com/Packerfan81/csci325-Restaurant-menu.git) 
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
