@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:jeengelhardt@csustudent.net) with the subject line, GitHub Access.
 
 ---
-### [Restaurant Menu Generator| CSCI 325](project1.md)
+### [Restaurant Menu Generator | CSCI 325](project1.md)
 
 ![Project 1 Thumbnail Name](images/imageonline-co-textimage2.jpg)
 
