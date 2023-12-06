@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Restaurant Menus Generator
 ===============
 
 -   **Group:** Jared Andraszek, Logan Ferguson, Joseph Kaufman, and Myles O'Toole  
@@ -63,16 +63,39 @@ $ java -jar "RestarauntMenu.jar"
 5. Payment information and additional confirmation.
 6. Option to add review, and thank you credits.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+<em>Fig 1. The welcome screen.</em> ![screenshot](/images/rmg-figure1.jpeg) <br />
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+<em>Fig 2. Example output after input is processed when you choose to see reviews.</em>
+![screenshot](/images/rmg-figure2.jpeg)<br />
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+<em>Fig 3. Example output after input is processed for adding items to your order.</em>
+![screenshot](/images/rmg-figure3.jpeg) ![screenshot](/images/rmg-figure4.jpeg)<br />
 
-## 3. Additional Considerations
+<em>Fig 4. Example output after input is processed (seeing receipt).</em>
+![screenshot](/images/rmg-figure5.jpeg)<br />
+
+<em>Fig 5. Example output after input is processed (payment confirmation prompt).</em>
+![screenshot](/images/rmg-figure6.jpeg)<br />
+
+<em>Fig 6. Example output after input is processed (write a review).</em>
+![screenshot](/images/rmg-figure7.jpeg)<br />
+
+<em>Fig 7. Example output after input is processed (yes selected).</em>
+![screenshot](/images/rmg-figure8.jpeg)<br />
+
+<em>Fig 8. Example output after input is processed (submitted/credits).</em>
+![screenshot](/images/rmg-figure9.jpeg)<br>
+
+<em>Fig 9. Feedback when an error occurs a restaurant closed.</em>
+![screenshot](/images/rmg-figure10.jpeg)<br>
+
+<em>Fig 10. Feedback when an error occurs (number out off menu/not a number).</em>
+![screenshot](/images/rmg-figure11.jpeg)<br>
+
+<em>Fig 11. Feedback when an error occurs (card errors).</em>
+![screenshot](/images/rmg-figure12.jpeg)<br>
+
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
