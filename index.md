@@ -36,32 +36,32 @@ Ethics Papers
 -   **Class: CSCI 332 Applied Networking**
 -   **Grade: A-**
 
-### [Security Engineering Ethical Concerns]([Security Engineering Ethical Concerns.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13569746/Security.Engineering.Ethical.Concerns.pdf))
+### <a href= "pdf/Security Engineering Ethical Concerns.pdf"_blank">Security Engineering Ethical Concerns</a>
 
--   **Class:** CSCI 432 Network Penetration and Ethical Hacking 
--   **Grade:** A
+-   **Class: CSCI 432 Network Penetration and Ethical Hacking** 
+-   **Grade: A**
 
-### [Have We Done Enough]([Have We Done Enough.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13570248/Have.We.Done.Enough.pdf))
+### <a href= "pdf/Have We Done Enough.pdf"_blank">Have We Done Enough</a>
 
--   **Class:** CSCI 315 Data Structures 
--   **Grade:** A
+-   **Class: CSCI 315 Data Structures** 
+-   **Grade: A**
 
 ---
 
 Presentations
 -------------
 
-### [Rootkits]([Rootkits.pdf](https://github.com/Packerfan81/Packerfan81.github.io/files/13571974/Rootkits.pdf))
+### <a href= "pdf/Rootkits.pdf"_blank">Rootkits</a>
 
 
-- **Class:** CSCI 330 Computer Architecture
-- **Grade:** A
+- **Class: CSCI 330 Computer Architecture**
+- **Grade: A**
 
 
-### [Computer Forensics](/pdf/sample_presentation.pdf)
+### <a href= "pdf/ComputerForensics.pdf"_blank">Computer Forensics</a>
 
-- **Class:** CSCI 405 Principles of Cybersercurity
-- **Grade:** A
+- **Class: CSCI 405 Principles of Cybersercurity**
+- **Grade: A**
 
 ---
 
