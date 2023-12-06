@@ -11,6 +11,7 @@ HTML PARSER
 
 ## Project description
 
+ This is a simple CLI program.  First it runs HTML webpages through a parser to determine if they are balanced.  After that the program determines how many individual webpages you can visit from each web page.
 
 
 ## How to compile and run the program
