@@ -28,7 +28,7 @@ make run
 
 ![screenshot](images/OpeningScreen.png)  
 Fig 1. Launch Screen.
-<br />
+<br> <br />
 
 ![screenshot](images/Webpages.png)  
 Fig 2. Sample webpages to be processed.
