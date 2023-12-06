@@ -29,24 +29,28 @@ make run
 ![screenshot](images/OpeningScreen.png)  
 Fig 1. Launch Screen.
 <br> <br />
-
+<br> <br />
 ![screenshot](images/Webpages.png)  
 Fig 2. Sample webpages to be processed.
-
+<br> <br />
+<br> <br />
 
 
 ![screenshot](images/Build.png)  
 Fig 3. How to complile the program.
-
+<br> <br />
+<br> <br />
 
 
 ![screenshot](images/Run.png)  
 Fig 4. How to run the program.
-
+<br> <br />
+<br> <br />
 
 ![screenshot](images/Output.png)  
 Fig 5. Output of Program.
-
+<br> <br />
+<br> <br />
 ## 3. Additional Considerations
 
 You can add more HTML files to test as long as they are in the same source directory.
