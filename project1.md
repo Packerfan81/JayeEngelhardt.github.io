@@ -16,9 +16,9 @@ Project 1 Title
 
 1. Choose a Restaurant:
    
-    Select from a list of available restaurants.
-    View previous customer reviews for the chosen restaurant (loaded from a text file).
-    Proceed directly to the menu without reviewing past comments.
+    - Select from a list of available restaurants.
+    - View previous customer reviews for the chosen restaurant (loaded from a text file).
+    - Proceed directly to the menu without reviewing past comments.
    
 2. Browse the Menu:
    
