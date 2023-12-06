@@ -25,22 +25,24 @@ make run
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+![screenshot](images/Opening Screen.png)  
+Fig 1. Opening Screen.
 
+![screenshot](images/Webpages.png)  
+Fig 2. Sample webpages to be processed.
 
+![screenshot](images/Build.png)  
+Fig 3. How to complile the program.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Run.png)  
+Fig 4. How to run the program.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Output.png)  
+Fig 5. Output of Program.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+You can add more HTML files to test as long as they are in the same source directory.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
