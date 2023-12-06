@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Restaurant Menu Generator| CSCI 325](project1.md)
 
-![Project 1 Thumbnail Name] (images/imageonline-co-textimage2.jpg)
+(images/imageonline-co-textimage2.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
