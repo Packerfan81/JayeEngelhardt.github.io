@@ -25,17 +25,24 @@ make run
 
 ## UI Design
 
-![screenshot](images/Webpages.png)  
+
+![screenshot](images/OpeningScreen.png)  
 Fig 1. Launch Screen.
+
 
 ![screenshot](images/Webpages.png)  
 Fig 2. Sample webpages to be processed.
 
+
+
 ![screenshot](images/Build.png)  
 Fig 3. How to complile the program.
 
+
+
 ![screenshot](images/Run.png)  
 Fig 4. How to run the program.
+
 
 ![screenshot](images/Output.png)  
 Fig 5. Output of Program.
