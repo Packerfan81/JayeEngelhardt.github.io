@@ -25,8 +25,8 @@ make run
 
 ## UI Design
 
-![screenshot](images/Opening Screen.png)  
-Fig 1. Opening Screen.
+![screenshot](images/Webpages.png)  
+Fig 1. Launch Screen.
 
 ![screenshot](images/Webpages.png)  
 Fig 2. Sample webpages to be processed.
