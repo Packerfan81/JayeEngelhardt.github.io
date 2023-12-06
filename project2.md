@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+HTML PARSER
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class: CSCI 315 Data Structures
+-   **Grade: A**
+-   **Language(s): C++** 
+-   **Source Code Repository:** [features/mastering-markdown](project2)  
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
