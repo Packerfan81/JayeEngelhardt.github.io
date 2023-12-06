@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: CSCI 332 Applied Networking**
 -   **Grade: A-**
 
-### <a href= "pdf/Security Engineering Ethical Concerns.pdf" target=_blank">Security Engineering Ethical Concerns</a>
+### <a href= "pdf/Security Engineering Ethical Concerns.pdf" target="_blank">Security Engineering Ethical Concerns</a>
 
 -   **Class: CSCI 432 Network Penetration and Ethical Hacking** 
 -   **Grade: A**
 
-### <a href= "pdf/Have We Done Enough.pdf" target=_blank">Have We Done Enough</a>
+### <a href= "pdf/Have We Done Enough.pdf" target="_blank">Have We Done Enough</a>
 
 -   **Class: CSCI 315 Data Structures** 
 -   **Grade: A**
@@ -51,14 +51,14 @@ Ethics Papers
 Presentations
 -------------
 
-### <a href= "pdf/Rootkits.pdf" target=_blank">Rootkits</a>
+### <a href= "pdf/Rootkits.pdf" target="_blank">Rootkits</a>
 
 
 - **Class: CSCI 330 Computer Architecture**
 - **Grade: A**
 
 
-### <a href= "pdf/ComputerForensics.pdf" target=_blank">Computer Forensics</a>
+### <a href= "pdf/ComputerForensics.pdf" target="_blank">Computer Forensics</a>
 
 - **Class: CSCI 405 Principles of Cybersercurity**
 - **Grade: A**
