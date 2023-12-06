@@ -6,7 +6,7 @@ HTML PARSER
 -   **Class: CSCI 315 Data Structures
 -   **Grade: A**
 -   **Language(s): C++** 
--   **Source Code Repository:** [packerfan81/HTML_PARSER](https://github.com/Packerfan81/Data-Structures/tree/master/project2))  
+-   **Source Code Repository:** [packerfan81/HTML_PARSER](https://github.com/Packerfan81/Data-Structures/tree/master/project2)  
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
