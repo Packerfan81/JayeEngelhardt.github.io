@@ -13,21 +13,31 @@ Project 1 Title
 ## Project description
 
 **This program simulates a restaurant ordering experience, allowing users to:**
+
 1. Choose a Restaurant:
-    -Select from a list of available restaurants.
+   
+    Select from a list of available restaurants.
     View previous customer reviews for the chosen restaurant (loaded from a text file).
     Proceed directly to the menu without reviewing past comments.
+   
 2. Browse the Menu:
+   
     Access the menu for the chosen restaurant (loaded from a separate text file).
     View available dishes and their descriptions.
+   
 3. Build Your Order:
+   
     Select items from the menu to add them to your order.
     Add or remove items as needed.
+   
 4. Review and Pay:
+   
     View a detailed receipt listing the chosen items and their prices.
     Add a tip (as a percentage) to the order total.
     Pay for the order using a simulated card payment.
+   
 5. Review and Rate (Optional):
+   
     Review the chosen restaurant based on your experience.
     Submit a rating (numerical score) for the restaurant.
     The user's review and rating are stored in a text file for future reference by other users.
