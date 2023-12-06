@@ -14,7 +14,7 @@ Project 1 Title
 
 **This program simulates a restaurant ordering experience, allowing users to:**
 1. Choose a Restaurant:
-    Select from a list of available restaurants.
+    -Select from a list of available restaurants.
     View previous customer reviews for the chosen restaurant (loaded from a text file).
     Proceed directly to the menu without reviewing past comments.
 2. Browse the Menu:
