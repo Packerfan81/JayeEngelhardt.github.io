@@ -3,32 +3,55 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Group:** Jared Andraszek, Logan Ferguson, Joseph Kaufman, and Myles O'Toole  
+-   **Class: CSCI 325 Object Oriented Programming** 
+-   **Grade: A** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** (https://github.com/Packerfan81/csci325-Restaurant-menu.git) 
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**This program simulates a restaurant ordering experience, allowing users to:**
+1. Choose a Restaurant:
+    Select from a list of available restaurants.
+    View previous customer reviews for the chosen restaurant (loaded from a text file).
+    Proceed directly to the menu without reviewing past comments.
+2. Browse the Menu:
+    Access the menu for the chosen restaurant (loaded from a separate text file).
+    View available dishes and their descriptions.
+3. Build Your Order:
+    Select items from the menu to add them to your order.
+    Add or remove items as needed.
+4. Review and Pay:
+    View a detailed receipt listing the chosen items and their prices.
+    Add a tip (as a percentage) to the order total.
+    Pay for the order using a simulated card payment.
+5. Review and Rate (Optional):
+    Review the chosen restaurant based on your experience.
+    Submit a rating (numerical score) for the restaurant.
+    The user's review and rating are stored in a text file for future reference by other users.
+
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+$ java -jar "RestarauntMenu.jar"
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+1. Displays all of the menus in the terminal giving the user the option to select an option by
+   entering the Selection Code.
+2. User receives a prompt asking if they would like to view the reviews for the restaurant. If so, a
+   new screen will be displaying reviews otherwise it will move on to displaying the menu Items.
+3. The menu of the selected restaurant is displayed and items can be added by typing in the items
+   number.
+4. Displays receipt and asks if user wants to continue to payment or cancel.
+5. Payment information and additional confirmation.
+6. Option to add review, and thank you credits.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -41,7 +64,6 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
