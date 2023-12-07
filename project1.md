@@ -63,36 +63,37 @@ $ java -jar "RestarauntMenu.jar"
 5. Payment information and additional confirmation.
 6. Option to add review, and thank you credits.
 
-<em>Fig 1. The welcome screen.</em> ![screenshot](/images/rmg-figure1.jpeg) <br />
+Fig 1. The welcome screen.
+![screenshot](/images/rmg-figure1.jpeg) <br />
 
-<em>Fig 2. Example output after input is processed when you choose to see reviews.</em>
+Fig 2. Example output after input is processed when you choose to see reviews.
 ![screenshot](/images/rmg-figure2.jpeg)<br />
 
-<em>Fig 3. Example output after input is processed for adding items to your order.</em>
+Fig 3. Example output after input is processed for adding items to your order.
 ![screenshot](/images/rmg-figure3.jpeg) ![screenshot](/images/rmg-figure4.jpeg)<br />
 
-<em>Fig 4. Example output after input is processed (seeing receipt).</em>
+Fig 4. Example output after input is processed (seeing receipt).
 ![screenshot](/images/rmg-figure5.jpeg)<br />
 
-<em>Fig 5. Example output after input is processed (payment confirmation prompt).</em>
+Fig 5. Example output after input is processed (payment confirmation prompt).
 ![screenshot](/images/rmg-figure6.jpeg)<br />
 
-<em>Fig 6. Example output after input is processed (write a review).</em>
+Fig 6. Example output after input is processed (write a review).
 ![screenshot](/images/rmg-figure7.jpeg)<br />
 
-<em>Fig 7. Example output after input is processed (yes selected).</em>
+Fig 7. Example output after input is processed (yes selected).
 ![screenshot](/images/rmg-figure8.jpeg)<br />
 
-<em>Fig 8. Example output after input is processed (submitted/credits).</em>
+Fig 8. Example output after input is processed (submitted/credits).
 ![screenshot](/images/rmg-figure9.jpeg)<br>
 
-<em>Fig 9. Feedback when an error occurs a restaurant closed.</em>
+Fig 9. Feedback when an error occurs a restaurant closed.
 ![screenshot](/images/rmg-figure10.jpeg)<br>
 
-<em>Fig 10. Feedback when an error occurs (number out off menu/not a number).</em>
+Fig 10. Feedback when an error occurs (number out off menu/not a number).
 ![screenshot](/images/rmg-figure11.jpeg)<br>
 
-<em>Fig 11. Feedback when an error occurs (card errors).</em>
+Fig 11. Feedback when an error occurs (card errors).
 ![screenshot](/images/rmg-figure12.jpeg)<br>
 
 
