@@ -11,6 +11,7 @@ Overlap Coverage
 
 ## Project description
 
+The program takes the data given as sets. A set will not have duplicate numbers. Then covers will be provided to be tested against.  A group of sets will then be queried against the covers provided.  After all sets have been tested output will given in the minimum number of overlaps to find a cover for each cover.  The time it took to find each cover and the mean time of all covers found, and if a cover could not be found.
 
 ## How to compile and run the program
 
