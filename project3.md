@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 3 Title
+Overlap Coverage
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: CSCI 315 Data Structures**
+-   **Grade: A**
+-   **Language(s): C++**
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
