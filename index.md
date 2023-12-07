@@ -16,6 +16,10 @@ Programming Projects
 
 ![Project 2 Thumbnail Name](images/HTMLPAR.jpg)
 
+---
+### [Overlap Coverage of a Group | CSCI 315](project3.md)
+
+![Project 2 Thumbnail Name](images/overlap.png)
 
 ---
 
