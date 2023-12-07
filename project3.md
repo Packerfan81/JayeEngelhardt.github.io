@@ -87,6 +87,8 @@ Fig 11 Small100 Data Set.
 
 You can have all the data sets make graphs with changes to the makefile.
 
+<br> <br />
+<br> <br />
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
