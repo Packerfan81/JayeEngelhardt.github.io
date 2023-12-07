@@ -6,7 +6,7 @@ Overlap Coverage
 -   **Class: CSCI 315 Data Structures**
 -   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [packerfan81/Overlap_Coverage]([https://guides.github.com/features/mastering-markdown](https://github.com/Packerfan81/Data-Structures/tree/master/project3)/)  
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,10 +17,19 @@ Overlap Coverage
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
-```
+cd ./project location
+make run
+make small30
+make medium30
+make large30
+make large50
+make small100
+make small-timings
+make medium-timings
+make large-timings
 
+```
+Each command will run different data sets and output the time it takes to calculate the minimum overlap.  The commands with timings in the command will generate a graph also.
 
 ## UI Design
 
