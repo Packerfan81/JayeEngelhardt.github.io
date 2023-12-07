@@ -30,10 +30,11 @@ make medium-timings
 make large-timings
 
 ```
--     Each command will run different data sets and output the time it takes to calculate the minimum overlap.  
--     The make small-timings command will graph the data from small30 dataset.
--     The make medium-timings command will graph the data from med30 dataset.
--     The make large-timings command will graph the data from large50 dataset.
+- Each command will run different data sets and output the time it takes to calculate the minimum overlap.
+- The make small-timings command will graph the data from small30 dataset.
+- The make medium-timings command will graph the data from med30 dataset.   
+- The make large-timings command will graph the data from large50 dataset.   
+    
 
 ## UI Design
 
