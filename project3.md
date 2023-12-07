@@ -6,7 +6,7 @@ Overlap Coverage
 -   **Class: CSCI 315 Data Structures**
 -   **Grade: A**
 -   **Language(s): C++**
--   **Source Code Repository:** [packerfan81/Overlap_Coverage]([https://guides.github.com/features/mastering-markdown](https://github.com/Packerfan81/Data-Structures/tree/master/project3)/)  
+-   **Source Code Repository:** [packerfan81/Overlap_Coverage](https://github.com/Packerfan81/Data-Structures/tree/master/project3)/)  
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
