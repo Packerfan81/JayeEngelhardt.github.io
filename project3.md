@@ -78,7 +78,7 @@ Fig 10 Large50 Data Set Graph.
 <br> <br />
 <br> <br />
 ![screenshot](images/mSmall100.png)  
-Fig 11 Large50 Data Set Graph.
+Fig 11 Small100 Data Set.
 <br> <br />
 <br> <br />
 
