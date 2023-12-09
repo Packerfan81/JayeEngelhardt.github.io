@@ -7,7 +7,7 @@ Restaurant Menus Generator
 -   **Class: CSCI 325 Object Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:**[CSCI 325/RestaurantMenusGenerator](https://github.com/Packerfan81/Packerfan81.github.io/archive/refs/tags/V1.0.zip) 
+-   **Source Code Repository:**[CSCI 325/RestaurantMenusGenerator](https://github.com/Packerfan81/csci325-Restaurant-menu.git) 
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
