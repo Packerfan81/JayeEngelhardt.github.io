@@ -7,7 +7,7 @@ Run For The Huns
 -   **Class: CSCI 334 User Interface**
 -   **Grade: A** 
 -   **Language(s): Ruby, HTML, CSS, JavaScript, SCSS
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [CSCI 334 Run For the Huns](https://github.com/Packerfan81/Run4Huns.git)
     (Please [email me](mailto:jeengelhardt@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
