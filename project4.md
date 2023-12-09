@@ -55,28 +55,28 @@ rails server
 
 ## UI Design
 
-Fig 1. The Home screen.
+Fig 1. The Home screen. <br />
 ![screenshot](images/home.png) <br />
 
-Fig 2. The Sign Up Page.
+Fig 2. The Sign Up Page. <br />
 ![screenshot](images/signup.png) <br />
 
-Fig 3. Contact Page.
+Fig 3. Contact Page. <br />
 ![screenshot](images/Contact.png) <br />
 
-Fig 4. Team Page.
+Fig 4. Team Page. <br />
 ![screenshot](images/Team.png) <br />
 
-Fig 5. The Login Screen.
+Fig 5. The Login Screen. <br />
 ![screenshot](images/login.png) <br />
 
-Fig 6. About Screen.
+Fig 6. About Screen. <br />
 ![screenshot](images/About.png) <br />
 
-Fig 7. Help Page.
+Fig 7. Help Page. <br />
 ![screenshot](images/help.png) <br />
 
-Fig 8. Admin Page.
+Fig 8. Admin Page. <br />
 ![screenshot](images/Admin.png) <br />
 
 
