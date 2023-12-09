@@ -19,9 +19,12 @@ Programming Projects
 ---
 ### [Overlap Coverage of a Group | CSCI 315](project3.md)
 
-![Project 2 Thumbnail Name](images/overlap.png)
+![Project 3 Thumbnail Name](images/overlap.png)
 
 ---
+### [Run For the Huns | CSCI 334](project4.md)
+
+![Project 4 Thumbnail Name](images/RUN.png)
 
 Ethics Papers
 -------------
