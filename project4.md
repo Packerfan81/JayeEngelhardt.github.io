@@ -15,8 +15,6 @@ Run For The Huns
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
-
-```bash
 ## First Installation
 
 1. To get started with the app, clone the repo, install the needed gem and migrate the database:
